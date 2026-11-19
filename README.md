@@ -40,6 +40,12 @@ Relivio is our HackRift 2025 prototype for helping vendors list surplus food for
 
 [Open the public team prototype](https://relivio.netlify.app/) to browse sample listings in a feed or map.
 
+## PracticeSG
+
+PracticeSG is a team web app for practising everyday digital tasks in Singapore. It simulates services such as Singpass and PayNow and includes a scam awareness quiz. I built the text-to-speech feature using the browser's Web Speech API so users could hear the instructions, and I built parts of the interface.
+
+[View the PracticeSG team repository](https://github.com/jordanyeo2001/PracticeSG)
+
 ## Contact
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/cheng-ann-phua/)
